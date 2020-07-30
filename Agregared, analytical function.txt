@@ -1,0 +1,7 @@
+OT DB
+1)Create short report regarding the sales: year of sales, category, product and how much was
+sold. *Use analytical functions. 
+2)Show how many orders were shipped/pended/canceled; number of orders in previous year;
+and find out the difference between previous year and looking year. *Use analytical functions;
+3)Demonstrate total and average cash came from each client. 
+Client Year Order Average
